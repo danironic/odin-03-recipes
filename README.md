@@ -1,2 +1,3 @@
 # odin-03-recipes
-Combining multiple HTML elements into one page.
+### Third project from The Odin Project. I was tasked with using img, heading, p, ul, ol, and a elements to make a small website for different recipes. The main page links through anchor tags in an ul list to each recipe. The recipe pages have the recipe name, an img of it, a short description, followed by an ul list of ingredients and ol list of steps. Finally, I added a link to go back to the recipes page.
+GitHub Page: [Odin Recipes](https://danironic.github.io/odin-03-recipes/)
